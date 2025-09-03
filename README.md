@@ -16,5 +16,4 @@
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/SorayaCrr/IaC-Laboratorio.git
-   cd IaC-Laboratorio
+   git clone https://github.com/Dark-dev64/Sem2_Infra
